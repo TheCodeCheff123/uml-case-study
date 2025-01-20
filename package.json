@@ -1,0 +1,13 @@
+{
+  "name": "uml-case-study",
+  "version": "1.0.0",
+  "description": "This Codebase is created for an Air BnB Platform to check help the company track new users and the available rooms",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
